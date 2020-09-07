@@ -1,0 +1,771 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {
+            "value": "\n```python\nimport site\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {
+            "value": "\n```python\nimport warnings\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {
+            "value": "\n```python\nimport django.core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Book",
+        "importPath": "djapp.models",
+        "description": "djapp.models",
+        "isExtraImport": true,
+        "detail": "djapp.models",
+        "documentation": {
+            "value": "\n```python\nimport djapp.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Book",
+        "importPath": "djapp.models",
+        "description": "djapp.models",
+        "isExtraImport": true,
+        "detail": "djapp.models",
+        "documentation": {
+            "value": "\n```python\nimport djapp.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.generics\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RetrieveAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.generics\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CreateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.generics\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import bin_dir\n```\n\n```python\n\n\n```\n\n```python\nbin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import base\n```\n\n```python\n\n\n```\n\n```python\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import os.environ[\"PATH\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import os.environ[\"VIRTUAL_ENV\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import prev_length\n```\n\n```python\n\n\n```\n\n```python\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import sys.path[:]\n```\n\n```python\n\n\n```\n\n```python\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import sys.real_prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom env.bin.activate_this import sys.prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleSerializer",
+        "kind": 6,
+        "importPath": "project1.djapp.api.serializers",
+        "description": "project1.djapp.api.serializers",
+        "peekOfCode": "class ArticleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Book\n        fields=('selfLink','title','authors','thumbnail','description')",
+        "detail": "project1.djapp.api.serializers",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.api.serializers import ArticleSerializer\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Book\n        fields=('selfLink','title','authors','thumbnail','description')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleListView",
+        "kind": 6,
+        "importPath": "project1.djapp.api.views",
+        "description": "project1.djapp.api.views",
+        "peekOfCode": "class ArticleListView(ListAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleDetailView(RetrieveAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer",
+        "detail": "project1.djapp.api.views",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.api.views import ArticleListView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleListView(ListAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleDetailView(RetrieveAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleDetailView",
+        "kind": 6,
+        "importPath": "project1.djapp.api.views",
+        "description": "project1.djapp.api.views",
+        "peekOfCode": "class ArticleDetailView(RetrieveAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer",
+        "detail": "project1.djapp.api.views",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.api.views import ArticleDetailView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleDetailView(RetrieveAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\nclass ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ArticleCreateView",
+        "kind": 6,
+        "importPath": "project1.djapp.api.views",
+        "description": "project1.djapp.api.views",
+        "peekOfCode": "class ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer",
+        "detail": "project1.djapp.api.views",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.api.views import ArticleCreateView\n```\n\n```python\n\n\n```\n\n```python\nclass ArticleCreateView(CreateAPIView):\n    queryset = Book.objects.all()\n    serializer_class=ArticleSerializer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "project1.djapp.migrations.0001_initial",
+        "description": "project1.djapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Article',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(default='hi', max_length=120)),",
+        "detail": "project1.djapp.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Article',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(default='hi', max_length=120)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "project1.djapp.migrations.0002_book",
+        "description": "project1.djapp.migrations.0002_book",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('djapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Book',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('selfLink', models.TextField()),",
+        "detail": "project1.djapp.migrations.0002_book",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.migrations.0002_book import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('djapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Book',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('selfLink', models.TextField()),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DjappConfig",
+        "kind": 6,
+        "importPath": "project1.djapp.apps",
+        "description": "project1.djapp.apps",
+        "peekOfCode": "class DjappConfig(AppConfig):\n    name = 'djapp'",
+        "detail": "project1.djapp.apps",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.apps import DjappConfig\n```\n\n```python\n\n\n```\n\n```python\nclass DjappConfig(AppConfig):\n    name = 'djapp'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Article",
+        "kind": 6,
+        "importPath": "project1.djapp.models",
+        "description": "project1.djapp.models",
+        "peekOfCode": "class Article(models.Model):\n    title = models.CharField(default=\"hi\",max_length=120)\n    content=models.TextField()\n    def __str__(self):\n        return self.title\nclass Book(models.Model):\n    selfLink = models.TextField()\n    title    = models.TextField()\n    authors  = models.TextField()\n    thumbnail= models.TextField()",
+        "detail": "project1.djapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.models import Article\n```\n\n```python\n\n\n```\n\n```python\nclass Article(models.Model):\n    title = models.CharField(default=\"hi\",max_length=120)\n    content=models.TextField()\n    def __str__(self):\n        return self.title\nclass Book(models.Model):\n    selfLink = models.TextField()\n    title    = models.TextField()\n    authors  = models.TextField()\n    thumbnail= models.TextField()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Book",
+        "kind": 6,
+        "importPath": "project1.djapp.models",
+        "description": "project1.djapp.models",
+        "peekOfCode": "class Book(models.Model):\n    selfLink = models.TextField()\n    title    = models.TextField()\n    authors  = models.TextField()\n    thumbnail= models.TextField()\n    description=models.TextField()\n    def __str__(self):\n        return self.title",
+        "detail": "project1.djapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom project1.djapp.models import Book\n```\n\n```python\n\n\n```\n\n```python\nclass Book(models.Model):\n    selfLink = models.TextField()\n    title    = models.TextField()\n    authors  = models.TextField()\n    thumbnail= models.TextField()\n    description=models.TextField()\n    def __str__(self):\n        return self.title\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project1.project1.asgi",
+        "description": "project1.project1.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "project1.project1.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '6nrm7mtpn+hkdc@zbj@omt1_l$ip3%429rg8*hy$38_f-587bk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '6nrm7mtpn+hkdc@zbj@omt1_l$ip3%429rg8*hy$38_f-587bk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "SECRET_KEY = '6nrm7mtpn+hkdc@zbj@omt1_l$ip3%429rg8*hy$38_f-587bk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = '6nrm7mtpn+hkdc@zbj@omt1_l$ip3%429rg8*hy$38_f-587bk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n    'allauth',\n    'allauth.account',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n    'allauth',\n    'allauth.account',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "ROOT_URLCONF = 'project1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'project1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'project1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'project1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',\n    ]\n}\nCORS_ORIGIN_ALLOW_ALL=True",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',\n    ]\n}\nCORS_ORIGIN_ALLOW_ALL=True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "project1.project1.settings",
+        "description": "project1.project1.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',\n    ]\n}\nCORS_ORIGIN_ALLOW_ALL=True\nACCOUNT_EMAIL_VERIFICATION='none'",
+        "detail": "project1.project1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.settings import REST_FRAMEWORK\n```\n\n```python\n\n\n```\n\n```python\nREST_FRAMEWORK = {\n    # Use Django's standard `django.contrib.auth` permissions,\n    # or allow read-only access for unauthenticated users.\n    'DEFAULT_PERMISSION_CLASSES': [\n        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',\n        'rest_framework.permissions.AllowAny',\n    ]\n}\nCORS_ORIGIN_ALLOW_ALL=True\nACCOUNT_EMAIL_VERIFICATION='none'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "project1.project1.urls",
+        "description": "project1.project1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('api-auth/', include('rest_framework.urls')),\n    path('rest-auth/',include('rest_auth.urls')),\n    path('rest-auth/registration/', include('rest_auth.registration.urls')),\n    path('admin/', admin.site.urls),\n    path('api/',include('djapp.api.urls'))\n]",
+        "detail": "project1.project1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('api-auth/', include('rest_framework.urls')),\n    path('rest-auth/',include('rest_auth.urls')),\n    path('rest-auth/registration/', include('rest_auth.registration.urls')),\n    path('admin/', admin.site.urls),\n    path('api/',include('djapp.api.urls'))\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project1.project1.wsgi",
+        "description": "project1.project1.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "project1.project1.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom project1.project1.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "project1.manage",
+        "description": "project1.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "project1.manage",
+        "documentation": {
+            "value": "\n```python\nfrom project1.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
